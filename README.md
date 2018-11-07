@@ -52,5 +52,6 @@ Finally, the dataset was splitted in 3:
   - Batch Normalization
   - Max Pooling
   - Xavier initialization
+- **Transfer Learning:** ResNet50 and VGG19 as fixed feature extractor pretrained on ImageNet.
 
 
