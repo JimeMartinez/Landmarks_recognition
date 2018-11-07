@@ -56,7 +56,7 @@ Finally, the dataset was splitted in 3:
 
 ## Results
 
-![alt text](.../master/Results.png)
+<img src=".../master/Results.png" alt="Results"/>
 
 VGG19 acquired the best performance with a 97,97% of accuracy on the test set.
 
