@@ -43,6 +43,6 @@ Finally, the dataset was splitted in 3:
 
 ## Experiments
 
-- *Convolutional Network:*
+- **Convolutional Network:**
 
 
