@@ -2,12 +2,12 @@
 
 This project presents different models used for classification of images with different touristic landmarks. The tourist landmarks are easily recognizable and well-known sites and buildings, such as a monument, church, bridge, etc.
 
-##Dataset
+## Dataset
 
 The dataset contains 184.732 images from 17 different landmarks:
--Alcatraz
--Alhambra Palace
--Basilica of Saint Peter
+- Alcatraz
+- Alhambra Palace
+- Basilica of Saint Peter
 -Casa Batllo
 -Charles Bridge
 -Eiffel
