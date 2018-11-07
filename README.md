@@ -41,4 +41,8 @@ Finally, the dataset was splitted in 3:
 
 [Download dataset](https://drive.google.com/open?id=1olkjN-mh8CE3IZN4AqzVAL7XLOVIHmyZ)
 
+## Experiments
+
+- *Convolutional Network:*
+
 
