@@ -44,5 +44,13 @@ Finally, the dataset was splitted in 3:
 ## Experiments
 
 - **Convolutional Network:**
+  - 5 convolutional layers and a fully connected layer
+  - Activation function: ReLU
+  - Data augmentation
+  - L2 Regularization
+  - Dropout
+  - Batch Normalization
+  - Max Pooling
+  - Xavier initialization
 
 
