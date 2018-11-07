@@ -56,7 +56,7 @@ Finally, the dataset was splitted in 3:
 
 ## Results
 
-![alt text](https://github.com/JimeMartinez/Landmarks_recognition/edit/master/Results.png "Results")
+![alt text](https://github.com/JimeMartinez/Landmarks_recognition/edit/master/Results.png)
 
 VGG19 acquired the best performance with a 97,97% of accuracy on the test set.
 
