@@ -54,4 +54,12 @@ Finally, the dataset was splitted in 3:
   - Xavier initialization
 - **Transfer Learning:** ResNet50 and VGG19 as fixed feature extractor pretrained on ImageNet.
 
+## Results
 
+VGG19 acquired the best performance with a 97,97% of accuracy on the test set.
+
+## References
+
+[1] H. Noh, A. Araujo, J. Sim, T. Weyand, B. Han, "Large-Scale Image Retrieval with Attentive Deep Local Features", Proc. ICCV'17
+
+[2] J. Philbin, O. Chum, M. Isard, J. Sivic, and A. Zisserman. Lost in quantization: Improving particular object retrieval in large scale image databases. In CVPR, 2008.
